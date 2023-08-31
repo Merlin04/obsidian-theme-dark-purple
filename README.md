@@ -1,4 +1,4 @@
-This is a sample theme for Obsidian ([https://obsidian.md](https://obsidian.md/)).
+Dark Purple theme for Obsidian, based on kognise's Atom theme
 
 ## First Time publishing a theme?
 
